@@ -1,5 +1,4 @@
  𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> ! 
-I'm Subash
 This is Subash Sahani, a first year undergraduate pursuing B.Tech (CSE) from Amrita Vishwa Vidhyapeetham,Amritapuri.
 An aspiring Full-Stack Web Developer  and a Programmer,   
 still a learner with the idea of implementing my work and growing into an open source contributor and a developer  .
